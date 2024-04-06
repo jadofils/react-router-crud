@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "name": "Samsung Galaxy ",
+      "brand": "Samsung",
+      "category": "Phones",
+      "description": "SmartPhone",
+      "createdAt": "2023-03-07",
+      "price": "450",
+      "id": "1"
+    },
+    {
+      "name": "Nokia X300",
+      "brand": "Nokia",
+      "category": "Phones",
+      "description": "211",
+      "price": "350",
+      "createdAt": "2023-03-07",
+      "id": "2"
+    },
+    {
+      "id": "816c",
+      "name": "ashimwe dina",
+      "brand": "purse 200",
+      "category": "Computers",
+      "price": "240",
+      "description": "hello",
+      "createdAt": "2024-04-06"
+    }
+  ]
+}
